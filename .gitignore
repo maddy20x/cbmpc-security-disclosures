@@ -1,0 +1,69 @@
+# Compiled binaries
+poc_neg
+poc_uninit_buf
+poc_uninit_bits
+poc_timing
+*.o
+*.exe
+*.out
+*.so
+*.dylib
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+lib/
+include/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+*.temp
+*.pid
+*.seed
+
+# Documentation
+*.pdf
+*.dvi
+*.aux
+*.toc
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Test files
+*.test
+*.coverage
+
+# Code coverage
+*.gcov
+*.gcda
+*.gcno

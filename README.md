@@ -1,3 +1,12 @@
+[![Security Research](https://img.shields.io/badge/Security-Research-blue.svg)](https://github.com/maddy20x/cbmpc-security-disclosures)
+[![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-orange.svg)](https://www.coinbase.com/legal/bug-bounty)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Contributing](https://img.shields.io/badge/Contributing-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.0-yellow.svg)](CODE_OF_CONDUCT.md)
+
+
+
+
 # 🔒 CB-MPC Security Vulnerability Disclosures
 
 **Security Research Findings | Responsible Disclosure**
